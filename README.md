@@ -15,35 +15,35 @@
 
 ![NaiveRandomOverSampling](https://github.com/mavalenz/Credit_Risk_Analysis/blob/main/Resources/NaiveRandomOverSampling.PNG)
 
-2. **SMOTE Oversampling**
+### 2. **SMOTE Oversampling**
 	* Precision - High Risk: 0.01, Low Risk: 1
 	* Recall - High Risk: 0.62, Low Risk: 0.69
 	* Balance Accuracy Score - 0.66
 
 ![SMOTEOverSampling](https://github.com/mavalenz/Credit_Risk_Analysis/blob/main/Resources/SMOTEOverSampling.PNG)
 
-3. **Cluster Centroids Undersampling**
+### 3. **Cluster Centroids Undersampling**
 	* Precision - High Risk: 0.01, Low Risk: 1
 	* Recall - High Risk: 0.69, Low Risk: 0.40
 	* Balance Accuracy Score - 0.66
 
 ![ClusterCentroids](https://github.com/mavalenz/Credit_Risk_Analysis/blob/main/Resources/ClusterCentroids.PNG)
 
-4. **SMOTEENN**
+### 4. **SMOTEENN**
 	* Precision - High Risk: 0.01, Low Risk: 1
 	* Recall - High Risk: 0.72, Low Risk: 0.57
 	* Balance Accuracy Score - 0.54
 
 ![SMOTEENN](https://github.com/mavalenz/Credit_Risk_Analysis/blob/main/Resources/SMOTEENN.PNG)
 
-5. **Balanced Random Forest Classifier**
+### 5. **Balanced Random Forest Classifier**
 	* Precision - High Risk: 0.04, Low Risk: 1
 	* Recall - High Risk: 0.70, Low Risk: 0.91
 	* Balance Accuracy Score - 0.81
 
 ![BalancedRandomForestClassifier](https://github.com/mavalenz/Credit_Risk_Analysis/blob/main/Resources/BalancedForestRandomClassifier.PNG)
 
-6. **Easy Ensemble AdaBoost Classifier**
+### 6. **Easy Ensemble AdaBoost Classifier**
 	* Precision - High Risk: 0.08, Low Risk: 1
 	* Recall - High Risk: 0.91, Low Risk: 0.93
 	* Balance Accuracy Score - 0.92
